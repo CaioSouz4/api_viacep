@@ -2,6 +2,8 @@
 <h2>Descrição</h2>
 <p>Componente que consome o serviço viacep https://viacep.com.br/ para retornar dados de endereços da cidade de fortaleza</p>
 
+Link do deploy: http://ndviacep.surge.sh/
+
 <h2>Ferramentas Utilizadas</h2>
   <ul>
      <li>
